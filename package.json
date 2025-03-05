@@ -1,0 +1,23 @@
+{
+  "name": "todolist_test2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsian86/todolist_test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsian86/todolist_test2/issues"
+  },
+  "homepage": "https://github.com/arsian86/todolist_test2#readme",
+  "description": "",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}
